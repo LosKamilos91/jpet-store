@@ -1,2 +1,28 @@
-# jpet-store
-Mate Academy website for testing 
+# JPet Store
+Mate Academy demo site for testing purposes.
+
+#### Tested site:
+```
+https://jpetstore.mate.academy/jpetstore/actions/Catalog.action
+```
+
+#### RTM
+```
+https://docs.google.com/spreadsheets/d/1gOzKp6Nvyr-oz7lYk8jfRih3DHMQ9EJ5ykrVZ2CQfhU/edit?usp=drive_link
+```
+
+#### Decision Table
+```
+https://docs.google.com/spreadsheets/d/1PBO8W-6dz0NDt6xcajLCtcpySiMI6P-YnHV1BjuAinA/edit?usp=drive_link
+```
+
+#### Test Reports
+```
+https://docs.google.com/spreadsheets/d/18O1gAyHNFdIznoVHIAsuzzfnhcxfhTwRgthvD3yQqSQ/edit?usp=drive_link
+```
+
+## Test Cases & Bug Reports
+Soon
+
+### Test Runs & Results
+Soon
