@@ -33,28 +33,28 @@ https://docs.google.com/spreadsheets/d/1PBO8W-6dz0NDt6xcajLCtcpySiMI6P-YnHV1BjuA
 ### Test Cases
 Name Test:
 ```
-Paste Link
+
 ```
 
 Name Test:
 ```
-Paste Link
+
 ```
 
 ### Test Runs
 Name Test:
 ```
-Paste Link
+
 ```
 
 Name Test:
 ```
-Paste Link
+
 ```
 
 ## Bug Reports
 ```
-Paste Link
+
 ```
 
 ## Test Reports
