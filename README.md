@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1hv4OHu73V2RD9FCOnjdo5i17Bb48jcdcafq8NGjx
 
 ## Bug Reports
 ```
-
+https://drive.google.com/drive/folders/18QZ4rDj5QYjcJZcV9t5YdN0TuiPc98H5?usp=drive_link
 ```
 
 ## Test Reports
