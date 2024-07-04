@@ -19,25 +19,15 @@ https://docs.google.com/spreadsheets/d/1PBO8W-6dz0NDt6xcajLCtcpySiMI6P-YnHV1BjuA
 ```
 
 ## Test Cases
-Name Test:
+Shopping Cart:
 ```
-
-```
-
-Name Test:
-```
-
+https://docs.google.com/spreadsheets/d/1b5_FnDQQ8JgzQC8EAXZZbF_dWGklQywwpU11aVhNLbw/edit?usp=drive_link
 ```
 
 ## Test Runs
-Name Test:
+Shopping Cart:
 ```
-
-```
-
-Name Test:
-```
-
+https://docs.google.com/spreadsheets/d/1hv4OHu73V2RD9FCOnjdo5i17Bb48jcdcafq8NGjxNqU/edit?usp=drive_link
 ```
 
 ## Bug Reports
