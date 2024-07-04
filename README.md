@@ -42,11 +42,9 @@ https://docs.google.com/spreadsheets/d/18O1gAyHNFdIznoVHIAsuzzfnhcxfhTwRgthvD3yQ
 
 <table>
   <tr>
-    <td><img src="#" width="500"></td>
-    <td><img src="#" width="500"></td>
+    <td><img src="https://github.com/LosKamilos91/jpet-store/assets/93448256/95103318-e4fd-4c92-8d5d-7cc39c4c93ad" width="1000"></td>
   </tr>
   <tr>
-    <th align="center">Name Test</th>
-    <th align="center">Name Test</th>
+    <th align="center">Shopping Cart</th>
   </tr>
 </table>
