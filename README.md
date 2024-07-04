@@ -14,8 +14,14 @@ https://docs.google.com/spreadsheets/d/1gOzKp6Nvyr-oz7lYk8jfRih3DHMQ9EJ5ykrVZ2CQ
 ```
 
 #### Decision Table
+User Login:
 ```
 https://docs.google.com/spreadsheets/d/1PBO8W-6dz0NDt6xcajLCtcpySiMI6P-YnHV1BjuAinA
+```
+
+Register User:
+```
+https://docs.google.com/spreadsheets/d/1Cb0TrNWM6XIEK9Ek5sgApFjT0nXXV7musKEHuGNyZFM/edit?usp=drive_link
 ```
 
 ## Test Cases
