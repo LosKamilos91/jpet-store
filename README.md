@@ -1,5 +1,5 @@
 # JPet Store
-A demo site for testing, with the possibility of buying animals.
+A demonstration site for testing the web application, allowing the purchase of animals.
 
 #### Tested site:
 ```
