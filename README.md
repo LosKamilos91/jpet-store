@@ -12,7 +12,7 @@ The primary goal of this project was to detect bugs and ensure the functionality
 - [ ] Automation of created tests (Cypress);
 - [ ] Execution of API tests (Postman);
 
-### List of functionalities to test
+### Features to be tested
 - [x] Shopping Cart;
 - [ ] Login/Register (In the future);
 - [ ] Home page (In the future);
