@@ -1,4 +1,4 @@
-# 🐾 JPet Store ![Progress](https://geps.dev/progress/10)
+# 🐾 JPet Store ![Progress](https://geps.dev/progress/40)
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-B3DDE0?style=for-the-badge) ![Ready To Automate](https://img.shields.io/badge/-Ready%20To%20Automate-FAD5B4?style=for-the-badge)
 
 The [**JPet Store**](https://jpetstore.mate.academy/jpetstore/actions/Catalog.action) is a demo web application designed for testing purposes. It simulates an online store for pet-related products. The application allows users to:
@@ -15,7 +15,7 @@ The primary goal of this project was to detect bugs and ensure the functionality
 
 ---
 
-### 📋 Test Plan
+### 📋 1. Test Plan
 
 A test plan was developed from scratch (by me) to represent the testing process. This plan presents:
 - Objective & testing strategy,
@@ -26,20 +26,20 @@ A test plan was developed from scratch (by me) to represent the testing process.
 
 A detailed overview can be found in the `test_plan.md` document in this repository.
 
-### 📝 Requirements
+### 📝 2. Requirements
 The design follows specific functional and non-functional requirements to ensure the quality of the application. Key areas include:
 - **Functional requirements**: verifying that the basic functions of the shopping cart work properly
 - **Non-functional requirements**: $${\color{red}soon}$$
 
 Detailed requirements can be found in the `requirements.md` file.
 
-### 🔗 RTM (Requirements Traceability Matrix)
+### 🔗 3. RTM (Requirements Traceability Matrix)
 To ensure thorough testing, the **RTM (Requirements Traceability Matrix)** technique was used. This helped map test cases to requirements, ensuring full coverage of key shopping cart features. The detailed RTM document can be found in the `rtm.xlsx` file.
 
-### 🔐 Permission Testing
+### 🔐 4. Permission Testing
 Permission tests were conducted to check access levels for different users: **Logged-in user** and **Guest**. For details on permissions, please refer to the `permissions.xlsx` file.
 
-### 🧪 Test Cases
+### 🧪 5. Test Cases
 ...
 
 ## 📁 Documentation
