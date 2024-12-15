@@ -6,16 +6,7 @@ The [**JPet Store**](https://jpetstore.mate.academy/jpetstore/actions/Catalog.ac
 - Add and remove items from the shopping cart.
 - Place orders for items in the cart.
 
-The primary goal of this project was to detect bugs and ensure the functionality under test operates correctly. Currently, the application is available only in a browser-based version.
-
-### List of tasks to be completed in the project
-- [ ] Automation of created tests (Cypress);
-- [ ] Execution of API tests (Postman);
-
-### Features to be tested
-- [x] Shopping Cart;
-- [ ] Login/Register (In the future);
-- [ ] Home page (In the future);
+The primary goal of this project was to detect bugs and ensure the functionality under test operates correctly. Currently, the application is available only in a browser-based version. I also encourage you to take a look at the tasks to be completed in the future as part of the project by going to the “**Issues**” tab or by clicking [here](https://github.com/LosKamilos91/jpet-store/issues/1) to go to the list of tasks.
 
 ---
 
