@@ -1,5 +1,5 @@
 # 🐾 JPet Store ![Progress](https://geps.dev/progress/10)
-![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-B3DDE0?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-B3DDE0?style=for-the-badge) ![Ready To Automate](https://img.shields.io/badge/-Ready%20To%20Automate-FAD5B4?style=for-the-badge)
 
 The [**JPet Store**](https://jpetstore.mate.academy/jpetstore/actions/Catalog.action) is a demo web application designed for testing purposes. It simulates an online store for pet-related products. The application allows users to:
 - Browse products.
@@ -8,7 +8,14 @@ The [**JPet Store**](https://jpetstore.mate.academy/jpetstore/actions/Catalog.ac
 
 The primary goal of this project was to detect bugs and ensure the functionality under test operates correctly. Currently, the application is available only in a browser-based version.
 
+### List of tasks to be completed in the project
+- [ ] Automation of created tests (Cypress);
+- [ ] Execution of API tests (Postman);
 
+### List of functionalities to test
+- [x] Shopping Cart;
+- [ ] Login/Register (In the future);
+- [ ] Home page (In the future);
 
 ---
 
@@ -41,10 +48,18 @@ To ensure thorough testing, the **RTM (Requirements Traceability Matrix)** techn
 ### 🔐 Permission Testing
 Permission tests were conducted to check access levels for different users: **Logged-in user** and **Guest**. For details on permissions, please refer to the `permissions.xlsx` file.
 
+### 🧪 Test Cases
+...
 
+## 📁 Documentation
+- Test Plan: `test-plan.md`
+- ...
 
+## 📊 Summary
+The JPet Store project is a demonstration and used for personal use showing a comprehensive web application testing process. The application has been tested manually and is ready for automated tests, which will be created based on the data placed in the project. I encourage you to check out the repository for more details about the project.
 
-
+- **Author**: Kamil Orzechowski
+- **Last modified**: $${\color{red}[Date]}$$.
 
 
 
@@ -91,31 +106,6 @@ A final test report was created summarizing the testing activities, outcomes, an
 
 The detailed report is hosted in Confluence and can also be found in `test_report.md`.
 
----
-
-### 📁 Documentation
-A summary of all project-related files is provided below:
-- `test_plan.md`: Comprehensive test plan.
-- `requirements.md`: Detailed requirements document.
-- `rtm.xlsx`: Requirements Traceability Matrix.
-- `permissions.xlsx`: Permission testing matrix.
-- `test_cases.xlsx`: Test cases for shopping cart functionality.
-- `test_execution.md`: Detailed test execution results.
-- `bug_reports.md`: Bug tracking document.
-- `test_report.md`: Final test report.
-
----
-
-### 📊 Summary
-This project was developed as a demonstration to showcase the end-to-end testing process for a web application. The testing activities were conducted by [Your Name], and the project was created on [Creation Date].
-
-The JPet Store testing project exemplifies best practices in manual testing, including:
-- Planning and strategy development.
-- Test case creation and execution.
-- Defect identification and reporting.
-- Comprehensive documentation.
-
-Feel free to explore the repository for more details or contact me for further inquiries.
 
 -->
 
